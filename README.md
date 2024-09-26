@@ -39,5 +39,5 @@ Feel free to fork the project and submit pull requests. Contributions are always
 
 ## 📧 Contact
 
-If you have any questions or feedback, reach out via [LinkedIn](https://www.linkedin.com/in/riyadus-salehin-50b749243/) or email at your-email@example.com.
+If you have any questions or feedback, reach out via [LinkedIn](https://www.linkedin.com/in/riyadus-salehin-50b749243/) or email at raditkhanyt@gmail.com.
 
